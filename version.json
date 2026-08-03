@@ -1,8 +1,8 @@
 {
-  "versionCode": 105,
-  "versionName": "1.0.0-rc5",
-  "apkUrl": "https://github.com/kadiraygul-hub/nexxora-app/releases/tag/v1.0.0-rc5",
-  "apkUrlArm64": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc5/nexxora-v1.0.0-rc5-arm64-v8a.apk",
-  "apkUrlArmv7": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc5/nexxora-v1.0.0-rc5-armeabi-v7a.apk",
-  "releaseNotes": "Nexxora v1.0.0-rc5: MAC portallarinda otomatik yedek MAC gecisi, film/dizi katalogunda oturum yenileme, Filmler icin yil filtresi, daha hizli TMDB, canli TV menusundeki kilitlenme duzeltmesi. Cihazina uygun APK'yi sec: arm64-v8a (64-bit) veya armeabi-v7a (32-bit)."
+  "versionCode": 106,
+  "versionName": "1.0.0-rc6",
+  "apkUrl": "https://github.com/kadiraygul-hub/nexxora-app/releases/tag/v1.0.0-rc6",
+  "apkUrlArm64": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc6/nexxora-v1.0.0-rc6-arm64-v8a.apk",
+  "apkUrlArmv7": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc6/nexxora-v1.0.0-rc6-armeabi-v7a.apk",
+  "releaseNotes": "Nexxora v1.0.0-rc6: Otomatik P2P Paylasimi (Sessiz Mod), Messenger moderasyon araclari, Canli TV ve Film odalari icin otomatik etiketleme (tagging), oynatici odak ve performans iyilestirmeleri. Cihazina uygun APK'yi sec: arm64-v8a (64-bit) veya armeabi-v7a (32-bit)."
 }
