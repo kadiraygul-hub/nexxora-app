@@ -1,9 +1,9 @@
 {
-  "versionCode": 112,
-  "minVersionCode": 112,
-  "versionName": "1.0.0-rc12",
-  "apkUrl": "https://github.com/kadiraygul-hub/nexxora-app/releases/tag/v1.0.0-rc12",
-  "apkUrlArm64": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc12/nexxora-v1.0.0-rc12-arm64-v8a.apk",
-  "apkUrlArmv7": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc12/nexxora-v1.0.0-rc12-armeabi-v7a.apk",
-  "releaseNotes": "Nexxora v1.0.0-rc12: Ucretsiz katalog 13.852 kanala cikti. Turk kanallari tek baslik altinda toplandi ve listenin en ustunde alt kategorilere ayrildi (Ulusal, Haber, Spor, Belgesel, Cocuk, Muzik, Beyazperde, Dini, Yerel). Canli kanallarin Filmler bolumune karismasi giderildi. Turkce yayin akisi (EPG) geri geldi. Ana ekran, Canli TV, film/dizi paneli, favoriler, profil ve oynatici sinematik tasarima gecti. Canli TV'de kumanda takilmasi ve oynatici yan menusundeki odak kaybi giderildi. Ozel Erisim profil menusune tasindi."
+  "versionCode": 111,
+  "minVersionCode": 111,
+  "versionName": "1.0.0-rc11",
+  "apkUrl": "https://github.com/kadiraygul-hub/nexxora-app/releases/tag/v1.0.0-rc11",
+  "apkUrlArm64": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc11/nexxora-v1.0.0-rc11-arm64-v8a.apk",
+  "apkUrlArmv7": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc11/nexxora-v1.0.0-rc11-armeabi-v7a.apk",
+  "releaseNotes": "Nexxora v1.0.0-rc11: Ucretsiz katalog 13.852 kanala cikti. Turk kanallari tek baslik altinda toplandi ve listenin en ustunde alt kategorilere ayrildi (Ulusal, Haber, Spor, Belgesel, Cocuk, Muzik, Beyazperde, Dini, Yerel). Canli kanallarin Filmler bolumune karismasi giderildi. Turkce yayin akisi (EPG) geri geldi. Ana ekran, Canli TV, film/dizi paneli, favoriler, profil ve oynatici sinematik tasarima gecti. Canli TV'de kumanda takilmasi ve oynatici yan menusundeki odak kaybi giderildi. Ozel Erisim profil menusune tasindi."
 }
