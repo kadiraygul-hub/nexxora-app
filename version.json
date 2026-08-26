@@ -1,9 +1,9 @@
 {
-  "versionCode": 111,
+  "versionCode": 113,
   "minVersionCode": 111,
-  "versionName": "1.0.0-rc11",
-  "apkUrl": "https://github.com/kadiraygul-hub/nexxora-app/releases/tag/v1.0.0-rc11",
-  "apkUrlArm64": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc11/nexxora-v1.0.0-rc11-arm64-v8a.apk",
-  "apkUrlArmv7": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc11/nexxora-v1.0.0-rc11-armeabi-v7a.apk",
-  "releaseNotes": "Nexxora v1.0.0-rc11: Ucretsiz katalog 13.852 kanala cikti. Turk kanallari tek baslik altinda toplandi ve listenin en ustunde alt kategorilere ayrildi (Ulusal, Haber, Spor, Belgesel, Cocuk, Muzik, Beyazperde, Dini, Yerel). Canli kanallarin Filmler bolumune karismasi giderildi. Turkce yayin akisi (EPG) geri geldi. Ana ekran, Canli TV, film/dizi paneli, favoriler, profil ve oynatici sinematik tasarima gecti. Canli TV'de kumanda takilmasi ve oynatici yan menusundeki odak kaybi giderildi. Ozel Erisim profil menusune tasindi."
+  "versionName": "1.0.0-rc13",
+  "apkUrl": "https://github.com/kadiraygul-hub/nexxora-app/releases/tag/v1.0.0-rc13",
+  "apkUrlArm64": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc13/nexxora-v1.0.0-rc13-arm64-v8a.apk",
+  "apkUrlArmv7": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc13/nexxora-v1.0.0-rc13-armeabi-v7a.apk",
+  "releaseNotes": "Nexxora v1.0.0-rc13: Telefonda dikey kullanim icin ilk etap duzenleme. Ana ekran, Canli TV, Ayarlar, Kaynaklar ve Paketler ekranlari telefon genisligine gore yeniden duzenlendi; ekranlarin ust uste binmesi, kesilen yazilar ve basilamayan dugmeler giderildi. Ayarlar ekraninda ayarlarin kendisi telefonda gorunmuyordu, duzeltildi. Kanal kategorilerinde 222 kategoriden 178'i genel bir TV simgesi gosteriyordu; ulke kategorileri artik kendi bayragini gosteriyor. Spor, belgesel, sinema, haber, cocuk ve muzik kategorileri kendi tur simgesini aliyor. Canli TV'deki bilgi kutusu kucultuldu ve kanal listesiyle cakismasi giderildi. TV ve TV Box gorunumu degismedi."
 }
