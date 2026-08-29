@@ -1,9 +1,9 @@
 {
-  "versionCode": 114,
+  "versionCode": 115,
   "minVersionCode": 114,
-  "versionName": "1.0.0-rc14",
-  "apkUrl": "https://github.com/kadiraygul-hub/nexxora-app/releases/tag/v1.0.0-rc14",
-  "apkUrlArm64": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc14/nexxora-v1.0.0-rc14-arm64-v8a.apk",
-  "apkUrlArmv7": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc14/nexxora-v1.0.0-rc14-armeabi-v7a.apk",
-  "releaseNotes": "Nexxora v1.0.0-rc14: Kutuphane, Filmler/Diziler, Paketler, Odeme ve Erisim Kodu ekranlarinda telefon duzeni duzeltildi - icerik artik telefonda TV genisligindeki bosluklari israf etmiyor, ulasilamayan geri butonlari ve gorunmeyen sekmeler calisiyor. Oynatici yan menusundeki ve Canli TV'deki Favoriler listesi kayitli favoriler olsa bile bos gorunuyordu, duzeltildi. VOD kaynaklari: tasarim degistiren birkac kaynak sitesi artik calisiyor; secilen kaynak acilmazsa uygulama artik otomatik olarak siradaki kaynagi deniyor, elle tek tek denemeye gerek yok. Motor degisiminde (VLC/ExoPlayer) donma ve cift ses sorunu giderildi. P2P paylasimi aktif kod yokken artik acik mesaj gosteriyor, sessizce basarisiz olmuyor. Soguk aciliş suresi kisaltildi. Ingilizce/Turkce yerellestirme buyuk olcude tamamlandi."
+  "versionName": "1.0.0-rc15",
+  "apkUrl": "https://github.com/kadiraygul-hub/nexxora-app/releases/tag/v1.0.0-rc15",
+  "apkUrlArm64": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc15/nexxora-v1.0.0-rc15-arm64-v8a.apk",
+  "apkUrlArmv7": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc15/nexxora-v1.0.0-rc15-armeabi-v7a.apk",
+  "releaseNotes": "Nexxora v1.0.0-rc15: Erisim kodu ile acilan kaynaklarda film ve dizi listelerinin bos kalmasina yol acan sorun giderildi - icerik secimi artik tum kaynak turlerinde dogru calisiyor. Diziler daha guvenilir aciliyor: bolum secildiginde dogru sayfa cozuluyor, alternatif kaynak sayisi artirildi ve Turkce/orijinal isim birlikte denendigi icin yabanci dizilerde eslesme sorunu buyuk olcude azaldi. Calismayan kaynaklar listeden cikarildi, bu sayede film ve bolum acilisi hizlandi. Yayin sorunu bildirimi artik erisim kodu olmayan kullanicilarda da calisiyor. Paket ve odeme akisinda ayni siparis icin iki kez bildirim olusturulmasi duzeltildi."
 }
