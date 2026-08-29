@@ -1,9 +1,9 @@
 {
-  "versionCode": 113,
-  "minVersionCode": 113,
-  "versionName": "1.0.0-rc13",
-  "apkUrl": "https://github.com/kadiraygul-hub/nexxora-app/releases/tag/v1.0.0-rc13",
-  "apkUrlArm64": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc13/nexxora-v1.0.0-rc13-arm64-v8a.apk",
-  "apkUrlArmv7": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc13/nexxora-v1.0.0-rc13-armeabi-v7a.apk",
-  "releaseNotes": "Nexxora v1.0.0-rc13: Telefonda dikey kullanim icin ilk etap duzenleme. Ana ekran, Canli TV, Ayarlar, Kaynaklar ve Paketler ekranlari telefon genisligine gore yeniden duzenlendi; ekranlarin ust uste binmesi, kesilen yazilar ve basilamayan dugmeler giderildi. Ayarlar ekraninda ayarlarin kendisi telefonda gorunmuyordu, duzeltildi. Kanal kategorilerinde 222 kategoriden 178'i genel bir TV simgesi gosteriyordu; ulke kategorileri artik kendi bayragini gosteriyor. Spor, belgesel, sinema, haber, cocuk ve muzik kategorileri kendi tur simgesini aliyor. Canli TV'deki bilgi kutusu kucultuldu ve kanal listesiyle cakismasi giderildi. TV ve TV Box gorunumu degismedi."
+  "versionCode": 114,
+  "minVersionCode": 114,
+  "versionName": "1.0.0-rc14",
+  "apkUrl": "https://github.com/kadiraygul-hub/nexxora-app/releases/tag/v1.0.0-rc14",
+  "apkUrlArm64": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc14/nexxora-v1.0.0-rc14-arm64-v8a.apk",
+  "apkUrlArmv7": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc14/nexxora-v1.0.0-rc14-armeabi-v7a.apk",
+  "releaseNotes": "Nexxora v1.0.0-rc14: Kutuphane, Filmler/Diziler, Paketler, Odeme ve Erisim Kodu ekranlarinda telefon duzeni duzeltildi - icerik artik telefonda TV genisligindeki bosluklari israf etmiyor, ulasilamayan geri butonlari ve gorunmeyen sekmeler calisiyor. Oynatici yan menusundeki ve Canli TV'deki Favoriler listesi kayitli favoriler olsa bile bos gorunuyordu, duzeltildi. VOD kaynaklari: tasarim degistiren birkac kaynak sitesi artik calisiyor; secilen kaynak acilmazsa uygulama artik otomatik olarak siradaki kaynagi deniyor, elle tek tek denemeye gerek yok. Motor degisiminde (VLC/ExoPlayer) donma ve cift ses sorunu giderildi. P2P paylasimi aktif kod yokken artik acik mesaj gosteriyor, sessizce basarisiz olmuyor. Soguk aciliş suresi kisaltildi. Ingilizce/Turkce yerellestirme buyuk olcude tamamlandi."
 }
