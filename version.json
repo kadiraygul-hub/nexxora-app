@@ -1,9 +1,9 @@
 {
-  "versionCode": 116,
+  "versionCode": 117,
   "minVersionCode": 114,
-  "versionName": "1.0.0-rc16",
-  "apkUrl": "https://github.com/kadiraygul-hub/nexxora-app/releases/tag/v1.0.0-rc16",
-  "apkUrlArm64": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc16/nexxora-v1.0.0-rc16-arm64-v8a.apk",
-  "apkUrlArmv7": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc16/nexxora-v1.0.0-rc16-armeabi-v7a.apk",
-  "releaseNotes": "Nexxora v1.0.0-rc16: Film ve dizi bolumunde icerik ve acilis iyilestirmeleri. Debrid hesabi baglayarak yuksek kaliteli kaynaklari dogrudan oynatma destegi."
+  "versionName": "1.0.0-rc17",
+  "apkUrl": "https://github.com/kadiraygul-hub/nexxora-app/releases/tag/v1.0.0-rc17",
+  "apkUrlArm64": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc17/nexxora-v1.0.0-rc17-arm64-v8a.apk",
+  "apkUrlArmv7": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc17/nexxora-v1.0.0-rc17-armeabi-v7a.apk",
+  "releaseNotes": "Nexxora v1.0.0-rc17: Paket ve fiyat duzenlemesi. Telefon ve tablette gorunum duzeltmeleri."
 }
