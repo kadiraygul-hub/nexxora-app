@@ -1,9 +1,9 @@
 {
   "versionCode": 118,
-  "minVersionCode": 117,
+  "minVersionCode": 118,
   "versionName": "1.0.0-rc18",
   "apkUrl": "https://github.com/kadiraygul-hub/nexxora-app/releases/tag/v1.0.0-rc18",
   "apkUrlArm64": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc18/nexxora-v1.0.0-rc18-arm64-v8a.apk",
   "apkUrlArmv7": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc18/nexxora-v1.0.0-rc18-armeabi-v7a.apk",
-  "releaseNotes": "Nexxora v1.0.0-rc18: Kanal listesi genisletildi, kategoriler duzenlendi. Yeni simge ve gorunum iyilestirmeleri."
+  "releaseNotes": "7.795 yeni kanal eklendi."
 }
