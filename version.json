@@ -2,12 +2,12 @@
   "versionCode": 120,
   "minVersionCode": 118,
   "versionName": "1.0.0-rc20",
-  "apkUrl": "https://github.com/kadiraygul-hub/nexxora-app/releases/tag/v1.0.0-rc20",
-  "apkUrlArm64": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc20/nexxora-v1.0.0-rc20-arm64-v8a.apk",
-  "apkUrlArmv7": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/v1.0.0-rc20/nexxora-v1.0.0-rc20-armeabi-v7a.apk",
+  "apkUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/tag/v1.0.0-rc20",
+  "apkUrlArm64": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc20/nexxora-v1.0.0-rc20-arm64-v8a.apk",
+  "apkUrlArmv7": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc20/nexxora-v1.0.0-rc20-armeabi-v7a.apk",
   "releaseNotes": "Ozel VOD & 4K havuzuna yeni kaynaklar eklendi.",
   "desktopVersionCode": 2,
   "desktopVersionName": "1.0.1",
   "desktopReleaseNotes": "Cihaz ID ve Telegram bildirimli odeme sistemi eklendi.",
-  "desktopDownloadUrl": "https://github.com/kadiraygul-hub/nexxora-app/releases/download/desktop-v1.0.1/Nexora-1.0.1.exe"
+  "desktopDownloadUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/download/desktop-v1.0.1/Nexora-1.0.1.exe"
 }
